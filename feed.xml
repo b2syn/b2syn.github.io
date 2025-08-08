@@ -4,7 +4,7 @@
   <id>/</id>
   <title>0xB2SYN</title>
   <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
-  <updated>2025-08-09T01:23:28+08:00</updated>
+  <updated>2025-08-09T01:29:40+08:00</updated>
   <author>
     <name>your_full_name</name>
     <uri>/</uri>
@@ -36,7 +36,7 @@
     
   
 
-  <summary>HTB Writeup Puppy  Initial Reconnaissance  nmap -A xx.xx.xx.xx --min-rate 10000 Starting Nmap 7.95 ( https://nmap.org ) at 2025-05-17 15:00 EDT Nmap scan report for xx.xx.xx.xx Host is up (0.097s latency). Not shown: 985 filtered tcp ports (no-response)  PORT      STATE SERVICE      VERSION 53/tcp    open  domain       Simple DNS Plus 88/tcp    open  kerberos-sec Microsoft Windows Kerberos (ser...</summary>
+  <summary>HTB Writeup Puppy  Initial Reconnaissance   &amp;lt;figure class="highlight"&amp;gt;&amp;lt;pre&amp;gt;&amp;lt;code class="language-zsh" data-lang="zsh"&amp;gt;&amp;lt;table class="rouge-table"&amp;gt;&amp;lt;tbody&amp;gt;&amp;lt;tr&amp;gt;&amp;lt;td class="gutter gl"&amp;gt;&amp;lt;pre class="lineno"&amp;gt;1 2 3 &amp;lt;/pre&amp;gt;&amp;lt;/td&amp;gt;&amp;lt;td class="code"&amp;gt;&amp;lt;pre&amp;gt;&amp;lt;span class="nb"&amp;gt;echo&amp;lt;/span&amp;gt; &amp;lt;span class="s2"&amp;gt;"Hallo"&amp;lt;/span&amp;gt; &amp;lt...</summary>
 
   </entry>
 
