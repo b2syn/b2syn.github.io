@@ -4,7 +4,7 @@
   <id>/</id>
   <title>0xB2SYN</title>
   <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
-  <updated>2025-08-09T01:11:16+08:00</updated>
+  <updated>2025-08-09T01:14:30+08:00</updated>
   <author>
     <name>your_full_name</name>
     <uri>/</uri>
@@ -17,6 +17,28 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>Puppy</title>
+    <link href="/posts/puppy/" rel="alternate" type="text/html" title="Puppy" />
+    <published>2025-08-08T00:00:00+08:00</published>
+  
+    <updated>2025-08-08T00:00:00+08:00</updated>
+  
+    <id>/posts/puppy/</id>
+    <content type="text/html" src="/posts/puppy/" />
+    <author>
+      <name>your_full_name</name>
+    </author>
+
+  
+    
+  
+
+  <summary>HTB Writeup Puppy  Initial Reconnaissance  nmap -A xx.xx.xx.xx --min-rate 10000 Starting Nmap 7.95 ( https://nmap.org ) at 2025-05-17 15:00 EDT Nmap scan report for xx.xx.xx.xx Host is up (0.097s latency). Not shown: 985 filtered tcp ports (no-response)  PORT      STATE SERVICE      VERSION 53/tcp    open  domain       Simple DNS Plus 88/tcp    open  kerberos-sec Microsoft Windows Kerberos (ser...</summary>
+
+  </entry>
 
   
   <entry>
