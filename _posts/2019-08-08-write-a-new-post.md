@@ -1,7 +1,7 @@
 ---
 title: Writing a New Post
 author: cotes
-date: 2019-08-08 14:10:00 +0800
+date: 2025-08-08 14:10:00 +0800
 categories: [Blogging, Tutorial]
 tags: [writing]
 render_with_liquid: false
@@ -24,6 +24,13 @@ date: YYYY-MM-DD HH:MM:SS +/-TTTT
 categories: [TOP_CATEGORY, SUB_CATEGORY]
 tags: [TAG]     # TAG names should always be lowercase
 ---
+```
+
+```zsh
+---
+nxc smb -SCV 2092.2.2.2.2.2
+---
+
 ```
 
 > The posts' _layout_ has been set to `post` by default, so there is no need to add the variable _layout_ in the Front Matter block.
